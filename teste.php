@@ -1,5 +1,7 @@
+
 <?php
 
-echo "Teste";
-
 phpinfo();
+
+echo "Teste";
+echo "Olá";
